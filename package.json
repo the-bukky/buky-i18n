@@ -1,0 +1,13 @@
+{
+  "name": "buky-i18n",
+  "version": "1.0.0",
+  "main": "dev.js",
+  "type": "module",
+  "repository": "https://github.com/the-bukky/buky-i18n.git",
+  "author": "RubensRafael <rubensrafael2@live.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "touch input.json ; node --watch dev.js",
+    "populate": "node populate.js"
+  }
+}
