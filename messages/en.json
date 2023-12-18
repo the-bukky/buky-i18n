@@ -1,1 +1,17 @@
-{}
+{
+  "common_search_placeholder": "What do you need?",
+  "common_view": "View",
+  "create_org": "Create Organization",
+  "home": "Home",
+  "instance_plural_org": "Organizations",
+  "instance_singular_org": "Organization",
+  "logout": "Logout",
+  "org_list_title": "Orgs that you are {{role}}",
+  "profile": "Profile",
+  "role_admin": "Admin",
+  "role_member": "Member",
+  "role_owner": "Owner",
+  "seach": "Seach",
+  "search": "Search",
+  "warn_cant_create_org": "You can't create a organization before verify your email"
+}
