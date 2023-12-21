@@ -12,20 +12,35 @@
     "email_sent_message": "A verification email has been sent to the organization's email, please confirm the email.",
     "email_fail_message": "There was a problem sending the verification email, please request a new attempt later."
   },
+  "dialog_email_verification": {
+    "success_message": "We have sent you an email, please verify your account.",
+    "fail_message": "An error occurred while sending the verification email, you can try later."
+  },
+  "edit_profile": "Edit Profile",
   "email": "Email",
   "email_placeholder": "email@email.com",
   "home": "Home",
+  "input_email_label": "Email Address",
+  "input_email_placeholder": "email@email.com",
+  "input_name_label": "Your Name",
   "instance_plural_org": "Organizations",
   "instance_singular_org": "Organization",
+  "language": "Language",
   "logout": "Logout",
   "name": "Name",
   "next": "Next",
+  "ok": "Ok",
   "org_list_title": "Orgs that you are {{role}}",
+  "password": "Password",
   "profile": "Profile",
   "role_admin": "Admin",
   "role_member": "Member",
   "role_owner": "Owner",
   "seach": "Seach",
   "search": "Search",
-  "warn_cant_create_org": "You can't create a organization before verify your email"
+  "update": "Update",
+  "warn_cant_create_org": "You can't create a organization before verify your email",
+  "warn_check_email": "Please, check your email.",
+  "warn_email_verification": "To use all the app's features, please verify your email.",
+  "your_name": "Your Name"
 }
