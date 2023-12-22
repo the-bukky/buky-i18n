@@ -27,7 +27,18 @@ export function readAndMergeJson(inputFileName, outputFileName, safe = true) {
 
     mergeJson(outputJson, inputJson, safe)
 
-    writeFileSync(outputFileName, JSON.stringify(outputJson, null, 2), "utf8")
+    const sortedOutputJson = {}
+    Object.keys(outputJson)
+      .sort()
+      .forEach((key) => {
+        sortedOutputJson[key] = outputJson[key]
+      })
+
+    writeFileSync(
+      outputFileName,
+      JSON.stringify(sortedOutputJson, null, 2) + "\n",
+      "utf8"
+    )
     console.log(`Data moved from ${inputFileName} to ${outputFileName}.`)
   } catch (error) {
     console.error("Error", error.message)

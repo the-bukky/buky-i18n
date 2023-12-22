@@ -1,1 +1,46 @@
-{}
+{
+  "all_fields_required": "All fields are required.",
+  "clear_all": "Clear All",
+  "common_search_placeholder": "What do you need?",
+  "common_view": "View",
+  "create_org": "Create Organization",
+  "dialog_create_org": {
+    "title": "Let's start creating your organization.",
+    "name_placeholder": "Jane Doe, Inc",
+    "empty_email_warning": "If there is no email, your email will be used.",
+    "success_message": "Organization created! Invite people with the link copied to your clipboard.",
+    "email_sent_message": "A verification email has been sent to the organization's email, please confirm the email.",
+    "email_fail_message": "There was a problem sending the verification email, please request a new attempt later."
+  },
+  "dialog_email_verification": {
+    "success_message": "We have sent you an email, please verify your account.",
+    "fail_message": "An error occurred while sending the verification email, you can try later."
+  },
+  "edit_profile": "Edit Profile",
+  "email": "Email",
+  "email_placeholder": "email@email.com",
+  "home": "Home",
+  "input_email_label": "Email Address",
+  "input_email_placeholder": "email@email.com",
+  "input_name_label": "Your Name",
+  "instance_plural_org": "Organizations",
+  "instance_singular_org": "Organization",
+  "language": "Language",
+  "logout": "Logout",
+  "name": "Name",
+  "next": "Next",
+  "ok": "Ok",
+  "org_list_title": "Orgs that you are {{role}}",
+  "password": "Password",
+  "profile": "Profile",
+  "role_admin": "Admin",
+  "role_member": "Member",
+  "role_owner": "Owner",
+  "seach": "Seach",
+  "search": "Search",
+  "update": "Update",
+  "warn_cant_create_org": "You can't create a organization before verify your email",
+  "warn_check_email": "Please, check your email.",
+  "warn_email_verification": "To use all the app's features, please verify your email.",
+  "your_name": "Your Name"
+}

@@ -1,1 +1,47 @@
-{}
+{
+  "all_fields_required": "Todos os campos são obrigatórios.",
+  "clear_all": "Limpar Tudo",
+  "common_search_placeholder": "O que você precisa?",
+  "common_view": "Visualizar",
+  "create_org": "Criar Organização",
+  "dialog_create_org": {
+    "title": "Vamos começar a criar a sua organização.",
+    "name_placeholder": "Jane Doe, Inc",
+    "empty_email_warning": "Se não houver e-mail, seu e-mail será utilizado.",
+    "success_message": "Organização criada! Convide pessoas com o link copiado para a sua área de transferência.",
+    "email_sent_message": "Um e-mail de verificação foi enviado para o e-mail da organização, por favor, confirme o e-mail.",
+    "email_fail_message": "Houve um problema ao enviar o e-mail de verificação, por favor, solicite uma nova tentativa mais tarde."
+  },
+  "dialog_email_verification": {
+    "success_message": "Enviamos um e-mail, por favor, verifique a sua conta.",
+    "fail_message": "Ocorreu um erro ao enviar o e-mail de verificação, você pode tentar novamente mais tarde."
+  },
+  "edit_profile": "Editar Perfil",
+  "email": "E-mail",
+  "email_placeholder": "email@email.com",
+  "general_search_placeholder": "O que você precisa?",
+  "home": "Página Inicial",
+  "input_email_label": "Endereço de E-mail",
+  "input_email_placeholder": "email@email.com",
+  "input_name_label": "Seu Nome",
+  "instance_plural_org": "Organizações",
+  "instance_singular_org": "Organização",
+  "language": "Idioma",
+  "logout": "Sair",
+  "name": "Nome",
+  "next": "Próximo",
+  "ok": "Ok",
+  "org_list_title": "Organizações das quais você é {{role}}",
+  "password": "Senha",
+  "profile": "Perfil",
+  "role_admin": "Admin",
+  "role_member": "Membro",
+  "role_owner": "Proprietário",
+  "seach": "Pesquisar",
+  "search": "Buscar",
+  "update": "Atualizar",
+  "warn_cant_create_org": "Você não pode criar uma organização antes de verificar seu e-mail.",
+  "warn_check_email": "Por favor, verifique seu e-mail.",
+  "warn_email_verification": "Para usar todos os recursos do aplicativo, verifique seu e-mail.",
+  "your_name": "Seu Nome"
+}
