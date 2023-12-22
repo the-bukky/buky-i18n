@@ -42,6 +42,6 @@
   "update": "Atualizar",
   "warn_cant_create_org": "Você não pode criar uma organização antes de verificar seu e-mail.",
   "warn_check_email": "Por favor, verifique seu e-mail.",
-  "warn_email_verification": "Para usar todos os recursos do aplicativo, por favor, verifique seu e-mail.",
+  "warn_email_verification": "Para usar todos os recursos do aplicativo, verifique seu e-mail.",
   "your_name": "Seu Nome"
 }
