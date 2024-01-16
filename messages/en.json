@@ -40,7 +40,6 @@
   "role_admin": "Admin",
   "role_member": "Member",
   "role_owner": "Owner",
-  "seach": "Seach",
   "search": "Search",
   "update": "Update",
   "warn_cant_create_org": "You can't create a organization before verify your email",
