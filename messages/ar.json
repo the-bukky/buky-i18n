@@ -3,6 +3,8 @@
   "clear_all": "مسح الكل",
   "common_search_placeholder": "ماذا تحتاج؟",
   "common_view": "عرض",
+  "copied": "تم النسخ",
+  "copy_invite_link": "نسخ رابط الدعوة",
   "create_org": "إنشاء منظمة",
   "dialog_create_org": {
     "title": "لنبدأ في إنشاء منظمتك.",
