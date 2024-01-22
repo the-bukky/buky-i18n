@@ -3,6 +3,8 @@
   "clear_all": "Limpar Tudo",
   "common_search_placeholder": "O que você precisa?",
   "common_view": "Visualizar",
+  "copied": "Copiado",
+  "copy_invite_link": "Copiar link de convite",
   "create_org": "Criar Organização",
   "dialog_create_org": {
     "title": "Vamos começar a criar a sua organização.",
