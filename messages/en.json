@@ -26,6 +26,7 @@
   "edit_profile": "Edit Profile",
   "email": "Email",
   "email_placeholder": "email@email.com",
+  "error_email_sent": "There was a problem sending the email, please try again later.",
   "general": "General",
   "home": "Home",
   "input_email_label": "Email Address",
