@@ -8,6 +8,7 @@
   "copy_invite_link": "Copiar link de convite",
   "create_org": "Criar Organização",
   "delete": "Apagar",
+  "delete_account": "Excluir conta",
   "delete_org": "Apagar Organização",
   "dialog_create_org": {
     "title": "Vamos começar a criar a sua organização.",
@@ -25,6 +26,7 @@
   "edit_profile": "Editar Perfil",
   "email": "E-mail",
   "email_placeholder": "email@email.com",
+  "error_email_sent": "Ocorreu um problema ao enviar o e-mail, tente novamente mais tarde.",
   "general": "Geral",
   "general_search_placeholder": "O que você precisa?",
   "home": "Página Inicial",

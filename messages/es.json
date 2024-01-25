@@ -8,6 +8,7 @@
   "copy_invite_link": "Copiar enlace de invitación",
   "create_org": "Crear Organización",
   "delete": "Eliminar",
+  "delete_account": "Eliminar cuenta",
   "delete_org": "Eliminar Organización",
   "dialog_create_org": {
     "title": "Comencemos a crear tu organización.",
@@ -25,6 +26,7 @@
   "edit_profile": "Editar Perfil",
   "email": "Correo Electrónico",
   "email_placeholder": "correo@electronico.com",
+  "error_email_sent": "Se produjo un error al enviar el correo electrónico, inténtalo de nuevo más tarde.",
   "general": "General",
   "general_search_placeholder": "¿Qué necesitas?",
   "home": "Inicio",
