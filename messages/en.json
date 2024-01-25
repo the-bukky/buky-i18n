@@ -8,6 +8,7 @@
   "copy_invite_link": "Copy invite link",
   "create_org": "Create Organization",
   "delete": "Delete",
+  "delete_account": "Delete Account",
   "delete_org": "Delete Organization",
   "dialog_create_org": {
     "title": "Let's start creating your organization.",
