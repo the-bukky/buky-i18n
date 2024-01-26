@@ -54,7 +54,8 @@
   "warn": {
     "cant_create_org": "Você não pode criar uma organização antes de verificar seu e-mail.",
     "check_email": "Por favor, verifique seu e-mail.",
-    "email_verification": "Para usar todos os recursos do aplicativo, verifique seu e-mail."
+    "email_verification": "Para usar todos os recursos do aplicativo, verifique seu e-mail.",
+    "verify_org_email": "Verifique o e-mail da sua organização"
   },
   "your_name": "Seu Nome"
 }
