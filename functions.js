@@ -1,15 +1,20 @@
 import { existsSync, readFileSync, writeFileSync } from "fs"
 
+// safe means that we will only add new keys is they not exist
 export function mergeJson(target, source, safe) {
   for (const key in source) {
-    if (target[key] && safe) continue
-
-    if (source[key] instanceof Object) {
-      Object.assign(target, { [key]: {} })
-
-      mergeJson(target[key], source[key])
-    } else {
-      Object.assign(target, { [key]: source[key] })
+    // eslint-disable-next-line no-prototype-builtins
+    if (source.hasOwnProperty(key)) {
+      if (source[key] instanceof Object && !Array.isArray(source[key])) {
+        if (!target[key]) {
+          Object.assign(target, { [key]: {} })
+        }
+        mergeJson(target[key], source[key], safe)
+      } else {
+        if (!target[key] || !safe) {
+          Object.assign(target, { [key]: source[key] })
+        }
+      }
     }
   }
 }
