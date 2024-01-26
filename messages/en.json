@@ -50,8 +50,10 @@
   "role_owner": "Owner",
   "search": "Search",
   "update": "Update",
-  "warn_cant_create_org": "You can't create a organization before verify your email",
-  "warn_check_email": "Please, check your email.",
-  "warn_email_verification": "To use all the app's features, please verify your email.",
+  "warn": {
+    "warn_cant_create_org": "You can't create a organization before verify your email",
+    "warn_check_email": "Please, check your email.",
+    "warn_email_verification": "To use all the app's features, please verify your email."
+  },
   "your_name": "Your Name"
 }

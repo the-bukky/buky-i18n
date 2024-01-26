@@ -51,8 +51,10 @@
   "role_owner": "Propietario",
   "search": "Buscar",
   "update": "Actualizar",
-  "warn_cant_create_org": "No puedes crear una organización antes de verificar tu correo electrónico",
-  "warn_check_email": "Por favor, revisa tu correo electrónico.",
-  "warn_email_verification": "Para utilizar todas las funciones de la aplicación, por favor, verifica tu correo electrónico.",
+  "warn": {
+    "warn_cant_create_org": "No puedes crear una organización antes de verificar tu correo electrónico",
+    "warn_check_email": "Por favor, revisa tu correo electrónico.",
+    "warn_email_verification": "Para utilizar todas las funciones de la aplicación, por favor, verifica tu correo electrónico."
+  },
   "your_name": "Tu Nombre"
 }
