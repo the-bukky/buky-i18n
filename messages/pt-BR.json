@@ -55,7 +55,8 @@
     "cant_create_org": "Você não pode criar uma organização antes de verificar seu e-mail.",
     "check_email": "Por favor, verifique seu e-mail.",
     "email_verification": "Para usar todos os recursos do aplicativo, verifique seu e-mail.",
-    "verify_org_email": "Verifique o e-mail da sua organização"
+    "verify_org_email": "Verifique o e-mail da sua organização",
+    "verify_email_change": "Para atualizar o e-mail, verifique o e-mail atual"
   },
   "your_name": "Seu Nome"
 }

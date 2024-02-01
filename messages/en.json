@@ -54,7 +54,8 @@
     "cant_create_org": "You can't create a organization before verify your email",
     "check_email": "Please, check your email.",
     "email_verification": "To use all the app's features, please verify your email.",
-    "verify_org_email": "Verify your organization email"
+    "verify_org_email": "Verify your organization email",
+    "verify_email_change": "To update the email, please, check the current email"
   },
   "your_name": "Your Name"
 }
