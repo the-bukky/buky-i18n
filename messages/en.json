@@ -1,5 +1,19 @@
 {
   "all_fields_required": "All fields are required.",
+  "api_error": {
+    "AlreadyExistsError": "This {{field}} is already being used by another {{instance}}.",
+    "AuthenticationError": "An authentication error happened, try to login again.",
+    "EmailUnavailableError": "This email is already being used.",
+    "ValidationError": {
+      "invalid_field": "The field '{{field}}' is invalid.",
+      "required_field": "The field '{{field}}' is required."
+    },
+    "AuthorizationError": {
+      "is_not_same_user": {
+        "read": "You cannot access this data, it belongs to someone else."
+      }
+    }
+  },
   "clear_all": "Clear All",
   "common_search_placeholder": "What do you need?",
   "common_view": "View",
@@ -26,8 +40,8 @@
   "edit_profile": "Edit Profile",
   "email": "Email",
   "email_placeholder": "email@email.com",
-  "error_email_sent": "There was a problem sending the email, please try again later.",
   "general": "General",
+  "generic_error": "Oops, something went wrong. Try again later.",
   "home": "Home",
   "input_email_label": "Email Address",
   "input_email_placeholder": "email@email.com",
@@ -49,6 +63,9 @@
   "role_member": "Member",
   "role_owner": "Owner",
   "search": "Search",
+  "ui_error": {
+    "email_not_sent": "There was a problem sending the email, please try again later."
+  },
   "update": "Update",
   "warn": {
     "cant_create_org": "You can't create a organization before verify your email",

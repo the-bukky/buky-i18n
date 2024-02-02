@@ -1,5 +1,19 @@
 {
   "all_fields_required": "Todos los campos son obligatorios.",
+  "api_error": {
+    "AlreadyExistsError": "Este {{field}} ya está siendo utilizado por otro {{instance}}.",
+    "AuthenticationError": "Ocurrió un error de autenticación, intenta iniciar sesión nuevamente.",
+    "EmailUnavailableError": "Este correo electrónico ya está en uso.",
+    "ValidationError": {
+      "invalid_field": "El campo '{{field}}' no es válido.",
+      "required_field": "El campo '{{field}}' es obligatorio."
+    },
+    "AuthorizationError": {
+      "is_not_same_user": {
+        "read": "No puedes acceder a estos datos, pertenecen a otra persona."
+      }
+    }
+  },
   "clear_all": "Limpiar Todo",
   "common_search_placeholder": "¿Qué necesitas?",
   "common_view": "Ver",
@@ -26,9 +40,9 @@
   "edit_profile": "Editar Perfil",
   "email": "Correo Electrónico",
   "email_placeholder": "correo@electronico.com",
-  "error_email_sent": "Se produjo un error al enviar el correo electrónico, inténtalo de nuevo más tarde.",
   "general": "General",
   "general_search_placeholder": "¿Qué necesitas?",
+  "generic_error": "Oops, algo salió mal. Intenta de nuevo más tarde.",
   "home": "Inicio",
   "input_email_label": "Dirección de Correo Electrónico",
   "input_email_placeholder": "correo@electronico.com",
@@ -50,6 +64,9 @@
   "role_member": "Miembro",
   "role_owner": "Propietario",
   "search": "Buscar",
+  "ui_error": {
+    "email_not_sent": "Se produjo un error al enviar el correo electrónico, inténtalo de nuevo más tarde."
+  },
   "update": "Actualizar",
   "warn": {
     "cant_create_org": "No puedes crear una organización antes de verificar tu correo electrónico",

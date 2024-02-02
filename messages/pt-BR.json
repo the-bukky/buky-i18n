@@ -1,5 +1,19 @@
 {
   "all_fields_required": "Todos os campos são obrigatórios.",
+  "api_error": {
+    "AlreadyExistsError": "Este {{field}} já está sendo utilizado por outro {{instance}}.",
+    "AuthenticationError": "Ocorreu um erro de autenticação, tente fazer login novamente.",
+    "EmailUnavailableError": "Este e-mail já está em uso.",
+    "ValidationError": {
+      "invalid_field": "O campo '{{field}}' é inválido.",
+      "required_field": "O campo '{{field}}' é obrigatório."
+    },
+    "AuthorizationError": {
+      "is_not_same_user": {
+        "read": "Você não pode acessar esses dados, pois pertencem a outra pessoa."
+      }
+    }
+  },
   "clear_all": "Limpar Tudo",
   "common_search_placeholder": "O que você precisa?",
   "common_view": "Visualizar",
@@ -26,9 +40,9 @@
   "edit_profile": "Editar Perfil",
   "email": "E-mail",
   "email_placeholder": "email@email.com",
-  "error_email_sent": "Ocorreu um problema ao enviar o e-mail, tente novamente mais tarde.",
   "general": "Geral",
   "general_search_placeholder": "O que você precisa?",
+  "generic_error": "Ops, algo deu errado. Tente novamente mais tarde.",
   "home": "Página Inicial",
   "input_email_label": "Endereço de E-mail",
   "input_email_placeholder": "email@email.com",
@@ -50,6 +64,9 @@
   "role_member": "Membro",
   "role_owner": "Proprietário",
   "search": "Buscar",
+  "ui_error": {
+    "email_not_sent": "Ocorreu um problema ao enviar o e-mail, tente novamente mais tarde."
+  },
   "update": "Atualizar",
   "warn": {
     "cant_create_org": "Você não pode criar uma organização antes de verificar seu e-mail.",

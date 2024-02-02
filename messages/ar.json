@@ -1,5 +1,19 @@
 {
   "all_fields_required": "جميع الحقول مطلوبة.",
+  "api_error": {
+    "AlreadyExistsError": "هذا {{field}} قيد الاستخدام بالفعل من قبل {{instance}} آخر.",
+    "AuthenticationError": "حدث خطأ في المصادقة، حاول تسجيل الدخول مرة أخرى.",
+    "EmailUnavailableError": "هذا البريد الإلكتروني مستخدم بالفعل.",
+    "ValidationError": {
+      "invalid_field": "الحقل '{{field}}' غير صالح.",
+      "required_field": "الحقل '{{field}}' مطلوب."
+    },
+    "AuthorizationError": {
+      "is_not_same_user": {
+        "read": "لا يمكنك الوصول إلى هذه البيانات، فهي تنتمي إلى شخص آخر."
+      }
+    }
+  },
   "clear_all": "مسح الكل",
   "common_search_placeholder": "ماذا تحتاج؟",
   "common_view": "عرض",
@@ -26,9 +40,9 @@
   "edit_profile": "تحرير الملف الشخصي",
   "email": "البريد الإلكتروني",
   "email_placeholder": "البريد@الإلكتروني.com",
-  "error_email_sent": "حدثت مشكلة أثناء إرسال البريد الإلكتروني، يرجى المحاولة مرة أخرى لاحقًا",
   "general": "عام",
   "general_search_placeholder": "ماذا تحتاج؟",
+  "generic_error": "عذرًا، حدث خطأ ما. حاول مرة أخرى في وقت لاحق.",
   "home": "الصفحة الرئيسية",
   "input_email_label": "عنوان البريد الإلكتروني",
   "input_email_placeholder": "البريد@الإلكتروني.com",
@@ -50,6 +64,9 @@
   "role_member": "عضو",
   "role_owner": "مالك",
   "search": "البحث",
+  "ui_error": {
+    "email_not_sent": "حدثت مشكلة أثناء إرسال البريد الإلكتروني، يرجى المحاولة مرة أخرى لاحقًا"
+  },
   "update": "تحديث",
   "warn": {
     "cant_create_org": "لا يمكنك إنشاء منظمة قبل التحقق من بريدك الإلكتروني",
