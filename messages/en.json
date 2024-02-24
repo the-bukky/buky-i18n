@@ -56,9 +56,6 @@
   "name": "Name",
   "next": "Next",
   "no_notifications": "No notifications to read",
-  "notification": {
-    "new_org_member": "{{memberName}} joined the {{orgName}} organization"
-  },
   "notifications": {
     "new_org_member": "{{memberName}} joined the {{orgName}}"
   },
