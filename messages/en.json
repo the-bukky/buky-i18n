@@ -12,6 +12,9 @@
       "is_not_same_user": {
         "read": "You cannot access this data, it belongs to someone else."
       }
+    },
+    "UserLoginError": {
+      "invalid_credentials": "Incorrect email or password."
     }
   },
   "clear_all": "Clear All",
