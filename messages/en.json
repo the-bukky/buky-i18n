@@ -15,6 +15,9 @@
     },
     "UserLoginError": {
       "invalid_credentials": "Incorrect email or password."
+    },
+    "ScalarValidationError": {
+      "non_empty_string": "The field cannot be empty."
     }
   },
   "clear_all": "Clear All",
