@@ -12,6 +12,12 @@
       "is_not_same_user": {
         "read": "No puedes acceder a estos datos, pertenecen a otra persona."
       }
+    },
+    "UserLoginError": {
+      "invalid_credentials": "Credenciales incorrectas."
+    },
+    "ScalarValidationError": {
+      "non_empty_string": "El campo no puede estar vacío."
     }
   },
   "clear_all": "Limpiar Todo",

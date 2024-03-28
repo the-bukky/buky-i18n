@@ -12,6 +12,12 @@
       "is_not_same_user": {
         "read": "لا يمكنك الوصول إلى هذه البيانات، فهي تنتمي إلى شخص آخر."
       }
+    },
+    "UserLoginError": {
+      "invalid_credentials": "بيانات اعتماد غير صحيحة"
+    },
+    "ScalarValidationError": {
+      "non_empty_string": "الحقل لا يمكن أن يكون فارغا"
     }
   },
   "clear_all": "مسح الكل",
