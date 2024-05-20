@@ -52,6 +52,7 @@
   "input_email_label": "Email Address",
   "input_email_placeholder": "email@email.com",
   "input_name_label": "Your Name",
+  "input_org_name_label": "Organization Name",
   "instance_plural_notification": "notifications",
   "instance_plural_org": "Organizations",
   "instance_singular_notification": "notification",
