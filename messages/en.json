@@ -18,6 +18,11 @@
     },
     "ScalarValidationError": {
       "non_empty_string": "The field cannot be empty."
+    },
+    "OrgAuthorizationError": {
+      "can_not_update_role": {
+        "write": "You are not allowed to update this user's role."
+      }
     }
   },
   "clear_all": "Clear All",
