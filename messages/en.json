@@ -21,11 +21,11 @@
     },
     "OrgAuthorizationError": {
       "can_not_update_role": {
-        "write": "You are not allowed to update this user's role."
+        "write": "You are not allowed to update this user's role.",
+        "downgrade_role": "Only an owner can lower the access level.",
+        "upgrade_to_owner": "Only an owner can give owner access level."
       },
-      "unique_owner_can_not_leave": {
-        "write": "An organization must have at least one owner."
-      }
+      "unique_owner_can_not_leave": "An organization must have at least one owner."
     }
   },
   "clear_all": "Clear All",
