@@ -24,7 +24,7 @@
         "downgrade_role": "Solo un propietario puede reducir el nivel de acceso.",
         "upgrade_to_owner": "Solo un propietario puede otorgar un nivel de acceso de propietario."
       },
-      "unique_owner_can_not_leave": "Una organización debe tener al menos un propietario."
+      "must_have_at_least_one_owner": "Una organización debe tener al menos un propietario."
     }
   },
   "clear_all": "Limpiar Todo",
