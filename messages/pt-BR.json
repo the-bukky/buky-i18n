@@ -21,7 +21,6 @@
     },
     "OrgAuthorizationError": {
       "can_not_update_role": {
-        "write": "Você não tem permissão para atualizar a função deste usuário.",
         "downgrade_role": "Somente um proprietário pode reduzir o nível de acesso.",
         "upgrade_to_owner": "Somente um proprietário pode conceder nível de acesso de proprietário."
       },
