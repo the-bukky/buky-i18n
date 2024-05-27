@@ -18,6 +18,14 @@
     },
     "ScalarValidationError": {
       "non_empty_string": "The field cannot be empty."
+    },
+    "OrgAuthorizationError": {
+      "can_not_update_role": {
+        "write": "You are not allowed to update this user's role."
+      },
+      "unique_owner_can_not_leave": {
+        "write": "An organization must have at least one owner."
+      }
     }
   },
   "clear_all": "Clear All",
@@ -52,6 +60,7 @@
   "input_email_label": "Email Address",
   "input_email_placeholder": "email@email.com",
   "input_name_label": "Your Name",
+  "input_org_name_label": "Organization Name",
   "instance_plural_notification": "notifications",
   "instance_plural_org": "Organizations",
   "instance_singular_notification": "notification",
