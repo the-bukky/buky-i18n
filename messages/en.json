@@ -22,6 +22,9 @@
     "OrgAuthorizationError": {
       "can_not_update_role": {
         "write": "You are not allowed to update this user's role."
+      },
+      "unique_owner_can_not_leave": {
+        "write": "An organization must have at least one owner."
       }
     }
   },
