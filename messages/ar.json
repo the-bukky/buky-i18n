@@ -18,6 +18,13 @@
     },
     "ScalarValidationError": {
       "non_empty_string": "الحقل لا يمكن أن يكون فارغا"
+    },
+    "OrgAuthorizationError": {
+      "can_not_update_role": {
+        "downgrade_role": "فقط المالك يمكنه خفض مستوى الوصول.",
+        "upgrade_to_owner": "فقط المالك يمكنه منح مستوى وصول مالك."
+      },
+      "unique_owner_can_not_leave": "يجب أن يكون للمؤسسة مالك واحد على الأقل."
     }
   },
   "clear_all": "مسح الكل",
@@ -53,6 +60,7 @@
   "input_email_label": "عنوان البريد الإلكتروني",
   "input_email_placeholder": "البريد@الإلكتروني.com",
   "input_name_label": "اسمك",
+  "input_org_name_label": "Organization Name",
   "instance_plural_notification": "الإشعارات",
   "instance_plural_org": "المنظمات",
   "instance_singular_notification": "إشعار",

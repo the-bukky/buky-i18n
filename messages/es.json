@@ -18,6 +18,13 @@
     },
     "ScalarValidationError": {
       "non_empty_string": "El campo no puede estar vacío."
+    },
+    "OrgAuthorizationError": {
+      "can_not_update_role": {
+        "downgrade_role": "Solo un propietario puede reducir el nivel de acceso.",
+        "upgrade_to_owner": "Solo un propietario puede otorgar un nivel de acceso de propietario."
+      },
+      "unique_owner_can_not_leave": "Una organización debe tener al menos un propietario."
     }
   },
   "clear_all": "Limpiar Todo",
@@ -53,6 +60,7 @@
   "input_email_label": "Dirección de Correo Electrónico",
   "input_email_placeholder": "correo@electronico.com",
   "input_name_label": "Tu Nombre",
+  "input_org_name_label": "Organization Name",
   "instance_plural_notification": "notificaciones",
   "instance_plural_org": "Organizaciones",
   "instance_singular_notification": "notificación",
