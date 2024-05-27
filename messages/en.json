@@ -21,7 +21,6 @@
     },
     "OrgAuthorizationError": {
       "can_not_update_role": {
-        "write": "You are not allowed to update this user's role.",
         "downgrade_role": "Only an owner can lower the access level.",
         "upgrade_to_owner": "Only an owner can give owner access level."
       },
