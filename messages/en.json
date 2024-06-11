@@ -24,7 +24,8 @@
         "downgrade_role": "Only an owner can lower the access level.",
         "upgrade_to_owner": "Only an owner can give owner access level."
       },
-      "must_have_at_least_one_owner": "An organization must have at least one owner."
+      "must_have_at_least_one_owner": "An organization must have at least one owner.",
+      "unique_owner_can_not_leave": "An organization must have at least one owner."
     }
   },
   "clear_all": "Clear All",
@@ -60,10 +61,12 @@
   "input_email_placeholder": "email@email.com",
   "input_name_label": "Your Name",
   "input_org_name_label": "Organization Name",
-  "instance_plural_notification": "notifications",
+  "instance_plural_notification": "Notifications",
   "instance_plural_org": "Organizations",
-  "instance_singular_notification": "notification",
+  "instance_plural_school": "Schools",
+  "instance_singular_notification": "Notification",
   "instance_singular_org": "Organization",
+  "instance_singular_school": "School",
   "invited_by": "Invited by",
   "language": "Language",
   "logout": "Logout",
