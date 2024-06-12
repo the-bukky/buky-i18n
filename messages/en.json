@@ -88,6 +88,8 @@
   "role_owner": "Owner",
   "search": "Search",
   "show_more": "Show more",
+  "slug": "Slug",
+  "submit": "Submit",
   "ui_error": {
     "email_not_sent": "There was a problem sending the email, please try again later."
   },
