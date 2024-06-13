@@ -3,14 +3,14 @@ name: Compare json files on every commit pushed
 on: [pull_request]
 
 jobs:
-  compare-json:
+  linter:
     runs-on: ubuntu-latest
-
+    name: Check JSON keys
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Run JSON Diff Action
-        uses: Drafteame/json-diff-action@main
+        uses: actions/checkout@v2
+      - name: Check json files
+        uses: ValentinVignal/action-json-keys@v0.5
         with:
-          search_path: ./messages
+          file-matcher: "./messages/**/*.json"
+          key-format: "snake_case"
