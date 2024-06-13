@@ -77,6 +77,8 @@
     "new_org_member": "{{memberName}} joined the {{orgName}}"
   },
   "ok": "Ok",
+  "open_settings": "Open settings",
+  "open_user_view": "Open user view",
   "org_list_title": "Orgs that you are {{role}}",
   "password": "Password",
   "people": "People",
