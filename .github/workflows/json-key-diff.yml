@@ -1,0 +1,20 @@
+name: Compare json files on every commit pushed
+
+on: [pull_request]
+
+jobs:
+  compare-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Run JSON Diff Action
+        uses: Drafteame/json-diff-action@main
+        with:
+          files: |
+            messages/en.json
+            messages/es.json
+            messages/pt-BR.json
+            messages/ar.json
