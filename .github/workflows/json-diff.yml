@@ -13,4 +13,6 @@ jobs:
       - name: Run JSON Diff Action
         uses: Drafteame/json-diff-action@main
         with:
-          search_path: /messages/
+          files: |
+            messages/en.json
+            messages/es.json
