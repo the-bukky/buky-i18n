@@ -30,6 +30,7 @@
   },
   "clear_all": "Clear All",
   "common_search_placeholder": "What do you need?",
+  "common_success": "Done!",
   "common_view": "View",
   "confirm_org_deletion": "Are you sure you want to delete the organization?",
   "copied": "Copied",
@@ -91,6 +92,7 @@
   "search": "Search",
   "show_more": "Show more",
   "slug": "Slug",
+  "slug_helper": "Slug can only contain letters, numbers, and dashes.",
   "submit": "Submit",
   "ui_error": {
     "email_not_sent": "There was a problem sending the email, please try again later."
