@@ -24,7 +24,16 @@
         "downgrade_role": "فقط المالك يمكنه خفض مستوى الوصول.",
         "upgrade_to_owner": "فقط المالك يمكنه منح مستوى وصول مالك."
       },
-      "must_have_at_least_one_owner": "يجب أن يكون للمؤسسة مالك واحد على الأقل."
+      "must_have_at_least_one_owner": "يجب أن يكون للمؤسسة مالك واحد على الأقل.",
+      "unique_owner_can_not_leave": "An organization must have at least one owner.",
+
+      "is_not_owner": {
+        "unknown": "فقط مسؤول المؤسسة يمكنه تغيير اختصار المدرسة.",
+        "change_school_slug": "فقط مالك المؤسسة يمكنه تغيير اختصار المدرسة."
+      },
+      "is_not_admin": {
+        "unknown": "فقط مسؤول المؤسسة يمكنه تغيير اختصار المدرسة."
+      }
     }
   },
   "clear_all": "مسح الكل",
@@ -59,7 +68,6 @@
   "input_email_label": "عنوان البريد الإلكتروني",
   "input_email_placeholder": "البريد@الإلكتروني.com",
   "input_name_label": "اسمك",
-  "input_org_name_label": "Organization Name",
   "instance_plural_notification": "الإشعارات",
   "instance_plural_org": "المنظمات",
   "instance_singular_notification": "إشعار",
@@ -74,6 +82,8 @@
     "new_org_member": "{{memberName}} انضم إلى {{orgName}}"
   },
   "ok": "موافق",
+  "open_settings": "افتح الإعدادات",
+  "open_user_view": "افتح عرض المستخدم",
   "org_list_title": "المنظمات التي أنت {{role}}",
   "password": "كلمة المرور",
   "people": "الناس",
@@ -97,5 +107,12 @@
     "verify_org_email": "تحقق من بريدك الإلكتروني للمؤسسة",
     "verify_email_change": "لتحديث البريد الإلكتروني ، يرجى التحقق من البريد الإلكتروني الحالي"
   },
+  "common_success": "تمت!",
+  "input_org_name_label": "اسم المنظمة",
+  "instance_plural_school": "مدارس",
+  "instance_singular_school": "مدرسة",
+  "slug": "اختصار",
+  "slug_helper": "يمكن للاختصار أن يحتوي فقط على الأحرف والأرقام والواصلات.",
+  "submit": "إرسال",
   "your_name": "اسمك"
 }

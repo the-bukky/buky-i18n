@@ -24,7 +24,15 @@
         "downgrade_role": "Somente um proprietário pode reduzir o nível de acesso.",
         "upgrade_to_owner": "Somente um proprietário pode conceder nível de acesso de proprietário."
       },
-      "must_have_at_least_one_owner": "Uma organização deve ter pelo menos um proprietário."
+      "must_have_at_least_one_owner": "Uma organização deve ter pelo menos um proprietário.",
+      "unique_owner_can_not_leave": "An organization must have at least one owner.",
+      "is_not_owner": {
+        "unknown": "Apenas um administrador da organização pode alterar o slug da escola.",
+        "change_school_slug": "Apenas o proprietário da organização pode alterar o slug da escola."
+      },
+      "is_not_admin": {
+        "unknown": "Apenas um administrador da organização pode alterar o slug da escola."
+      }
     }
   },
   "clear_all": "Limpar Tudo",
@@ -59,7 +67,6 @@
   "input_email_label": "Endereço de E-mail",
   "input_email_placeholder": "email@email.com",
   "input_name_label": "Seu Nome",
-  "input_org_name_label": "Organization Name",
   "instance_plural_notification": "notificações",
   "instance_plural_org": "Organizações",
   "instance_singular_notification": "notificação",
@@ -74,6 +81,8 @@
     "new_org_member": "{{memberName}} entrou para {{orgName}}"
   },
   "ok": "Ok",
+  "open_settings": "Abrir configurações",
+  "open_user_view": "Abrir visualização do usuário",
   "org_list_title": "Organizações das quais você é {{role}}",
   "password": "Senha",
   "people": "Pessoas",
@@ -97,5 +106,12 @@
     "verify_org_email": "Verifique o e-mail da sua organização",
     "verify_email_change": "Para atualizar o e-mail, verifique o e-mail atual"
   },
-  "your_name": "Seu Nome"
+  "your_name": "Seu Nome",
+  "common_success": "Feito!",
+  "input_org_name_label": "Nome da Organização",
+  "instance_plural_school": "Escolas",
+  "instance_singular_school": "Escola",
+  "slug": "Slug",
+  "slug_helper": "O slug só pode conter letras, números e traços.",
+  "submit": "Enviar"
 }
