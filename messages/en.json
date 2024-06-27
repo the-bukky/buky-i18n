@@ -24,11 +24,20 @@
         "downgrade_role": "Only an owner can lower the access level.",
         "upgrade_to_owner": "Only an owner can give owner access level."
       },
-      "must_have_at_least_one_owner": "An organization must have at least one owner."
+      "must_have_at_least_one_owner": "An organization must have at least one owner.",
+      "unique_owner_can_not_leave": "An organization must have at least one owner.",
+      "is_not_owner": {
+        "unknown": "Only a org admin can change the school's slug.",
+        "change_school_slug": "Only a org owner can change the school's slug."
+      },
+      "is_not_admin": {
+        "unknown": "Only a org admin can change the school's slug."
+      }
     }
   },
   "clear_all": "Clear All",
   "common_search_placeholder": "What do you need?",
+  "common_success": "Done!",
   "common_view": "View",
   "confirm_org_deletion": "Are you sure you want to delete the organization?",
   "copied": "Copied",
@@ -60,10 +69,12 @@
   "input_email_placeholder": "email@email.com",
   "input_name_label": "Your Name",
   "input_org_name_label": "Organization Name",
-  "instance_plural_notification": "notifications",
+  "instance_plural_notification": "Notifications",
   "instance_plural_org": "Organizations",
-  "instance_singular_notification": "notification",
+  "instance_plural_school": "Schools",
+  "instance_singular_notification": "Notification",
   "instance_singular_org": "Organization",
+  "instance_singular_school": "School",
   "invited_by": "Invited by",
   "language": "Language",
   "logout": "Logout",
@@ -74,6 +85,8 @@
     "new_org_member": "{{memberName}} joined the {{orgName}}"
   },
   "ok": "Ok",
+  "open_settings": "Open settings",
+  "open_user_view": "Open user view",
   "org_list_title": "Orgs that you are {{role}}",
   "password": "Password",
   "people": "People",
@@ -85,6 +98,9 @@
   "role_owner": "Owner",
   "search": "Search",
   "show_more": "Show more",
+  "slug": "Slug",
+  "slug_helper": "Slug can only contain letters, numbers, and dashes.",
+  "submit": "Submit",
   "ui_error": {
     "email_not_sent": "There was a problem sending the email, please try again later."
   },
