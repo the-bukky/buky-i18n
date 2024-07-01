@@ -33,7 +33,8 @@
       "is_not_admin": {
         "unknown": "Only a org admin can change the school's slug."
       }
-    }
+    },
+    "UniqueFieldError": "This {{field}} is already being used by another {{instance}}."
   },
   "clear_all": "Clear All",
   "common_search_placeholder": "What do you need?",
@@ -53,6 +54,9 @@
     "success_message": "Organization created! Invite people with the link copied to your clipboard.",
     "email_sent_message": "A verification email has been sent to the organization's email, please confirm the email.",
     "email_fail_message": "There was a problem sending the verification email, please request a new attempt later."
+  },
+  "dialog_create_school": {
+    "title": "Create school"
   },
   "dialog_email_verification": {
     "success_message": "We have sent you an email, please verify your account.",
