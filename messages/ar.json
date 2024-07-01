@@ -26,7 +26,6 @@
       },
       "must_have_at_least_one_owner": "يجب أن يكون للمؤسسة مالك واحد على الأقل.",
       "unique_owner_can_not_leave": "An organization must have at least one owner.",
-
       "is_not_owner": {
         "unknown": "فقط مالك المؤسسة يمكنه تنفيذ هذا الإجراء.",
         "change_school_slug": "فقط مالك المؤسسة يمكنه تغيير اختصار المدرسة."
@@ -34,10 +33,12 @@
       "is_not_admin": {
         "unknown": "فقط مسؤول المؤسسة يمكنه تنفيذ هذا الإجراء."
       }
-    }
+    },
+    "UniqueFieldError": "هذا الحقل {{field}} مستخدم بالفعل بواسطة {{instance}} آخر."
   },
   "clear_all": "مسح الكل",
   "common_search_placeholder": "ماذا تحتاج؟",
+  "common_success": "تمت!",
   "common_view": "عرض",
   "confirm_org_deletion": "هل أنت متأكد من أنك تريد حذف المنظمة؟",
   "copied": "تم النسخ",
@@ -54,6 +55,9 @@
     "email_sent_message": "تم إرسال رسالة تحقق إلى بريد المنظمة، يرجى تأكيد البريد الإلكتروني.",
     "email_fail_message": "حدثت مشكلة أثناء إرسال رسالة التحقق من البريد، يرجى طلب محاولة جديدة لاحقًا."
   },
+  "dialog_create_school": {
+    "title": "إنشاء مدرسة"
+  },
   "dialog_email_verification": {
     "success_message": "لقد أرسلنا لك بريدًا إلكترونيًا، يرجى التحقق من حسابك.",
     "fail_message": "حدث خطأ أثناء إرسال رسالة التحقق من البريد، يمكنك المحاولة لاحقًا."
@@ -68,10 +72,13 @@
   "input_email_label": "عنوان البريد الإلكتروني",
   "input_email_placeholder": "البريد@الإلكتروني.com",
   "input_name_label": "اسمك",
+  "input_org_name_label": "اسم المنظمة",
   "instance_plural_notification": "الإشعارات",
   "instance_plural_org": "المنظمات",
+  "instance_plural_school": "مدارس",
   "instance_singular_notification": "إشعار",
   "instance_singular_org": "منظمة",
+  "instance_singular_school": "مدرسة",
   "invited_by": "بدعوة من",
   "language": "اللغة",
   "logout": "تسجيل الخروج",
@@ -95,6 +102,9 @@
   "role_owner": "مالك",
   "search": "البحث",
   "show_more": "عرض المزيد",
+  "slug": "اختصار",
+  "slug_helper": "يمكن للاختصار أن يحتوي فقط على الأحرف والأرقام والواصلات.",
+  "submit": "إرسال",
   "ui_error": {
     "email_not_sent": "حدثت مشكلة أثناء إرسال البريد الإلكتروني، يرجى المحاولة مرة أخرى لاحقًا"
   },
@@ -107,12 +117,5 @@
     "verify_org_email": "تحقق من بريدك الإلكتروني للمؤسسة",
     "verify_email_change": "لتحديث البريد الإلكتروني ، يرجى التحقق من البريد الإلكتروني الحالي"
   },
-  "common_success": "تمت!",
-  "input_org_name_label": "اسم المنظمة",
-  "instance_plural_school": "مدارس",
-  "instance_singular_school": "مدرسة",
-  "slug": "اختصار",
-  "slug_helper": "يمكن للاختصار أن يحتوي فقط على الأحرف والأرقام والواصلات.",
-  "submit": "إرسال",
   "your_name": "اسمك"
 }
