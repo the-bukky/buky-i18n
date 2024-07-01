@@ -27,11 +27,11 @@
       "must_have_at_least_one_owner": "Uma organização deve ter pelo menos um proprietário.",
       "unique_owner_can_not_leave": "An organization must have at least one owner.",
       "is_not_owner": {
-        "unknown": "Apenas um administrador da organização pode alterar o slug da escola.",
+        "unknown": "Somente um proprietário da organização pode realizar esta ação.",
         "change_school_slug": "Apenas o proprietário da organização pode alterar o slug da escola."
       },
       "is_not_admin": {
-        "unknown": "Apenas um administrador da organização pode alterar o slug da escola."
+        "unknown": "Somente um administrador da organização pode realizar esta ação."
       }
     }
   },

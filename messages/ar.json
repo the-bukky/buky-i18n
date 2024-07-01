@@ -28,11 +28,11 @@
       "unique_owner_can_not_leave": "An organization must have at least one owner.",
 
       "is_not_owner": {
-        "unknown": "فقط مسؤول المؤسسة يمكنه تغيير اختصار المدرسة.",
+        "unknown": "فقط مالك المؤسسة يمكنه تنفيذ هذا الإجراء.",
         "change_school_slug": "فقط مالك المؤسسة يمكنه تغيير اختصار المدرسة."
       },
       "is_not_admin": {
-        "unknown": "فقط مسؤول المؤسسة يمكنه تغيير اختصار المدرسة."
+        "unknown": "فقط مسؤول المؤسسة يمكنه تنفيذ هذا الإجراء."
       }
     }
   },

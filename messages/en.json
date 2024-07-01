@@ -27,11 +27,11 @@
       "must_have_at_least_one_owner": "An organization must have at least one owner.",
       "unique_owner_can_not_leave": "An organization must have at least one owner.",
       "is_not_owner": {
-        "unknown": "Only a org admin can change the school's slug.",
+        "unknown": "Only a org owner can perform this action.",
         "change_school_slug": "Only a org owner can change the school's slug."
       },
       "is_not_admin": {
-        "unknown": "Only a org admin can change the school's slug."
+        "unknown": "Only a org admin can perform this action."
       }
     },
     "UniqueFieldError": "This {{field}} is already being used by another {{instance}}."
