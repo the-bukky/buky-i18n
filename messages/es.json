@@ -27,16 +27,18 @@
       "must_have_at_least_one_owner": "Una organización debe tener al menos un propietario.",
       "unique_owner_can_not_leave": "An organization must have at least one owner.",
       "is_not_owner": {
-        "unknown": "Solo un administrador de la organización puede cambiar el slug de la escuela.",
+        "unknown": "Solo el propietario de una organización puede realizar esta acción.",
         "change_school_slug": "Solo el propietario de la organización puede cambiar el slug de la escuela."
       },
       "is_not_admin": {
-        "unknown": "Solo un administrador de la organización puede cambiar el slug de la escuela."
+        "unknown": "Solo un administrador de la organización puede realizar esta acción."
       }
-    }
+    },
+    "UniqueFieldError": "Este campo {{field}} ya está siendo utilizado por otra {{instance}}."
   },
   "clear_all": "Limpiar Todo",
   "common_search_placeholder": "¿Qué necesitas?",
+  "common_success": "¡Hecho!",
   "common_view": "Ver",
   "confirm_org_deletion": "¿Está seguro de que desea eliminar la organización?",
   "copied": "Copiado",
@@ -53,6 +55,9 @@
     "email_sent_message": "Se ha enviado un correo electrónico de verificación al correo electrónico de la organización, por favor, confirma el correo electrónico.",
     "email_fail_message": "Hubo un problema al enviar el correo electrónico de verificación, por favor, solicita un nuevo intento más tarde."
   },
+  "dialog_create_school": {
+    "title": "Crear escuela"
+  },
   "dialog_email_verification": {
     "success_message": "Te hemos enviado un correo electrónico, por favor, verifica tu cuenta.",
     "fail_message": "Se produjo un error al enviar el correo electrónico de verificación, puedes intentarlo más tarde."
@@ -67,10 +72,13 @@
   "input_email_label": "Dirección de Correo Electrónico",
   "input_email_placeholder": "correo@electronico.com",
   "input_name_label": "Tu Nombre",
+  "input_org_name_label": "Nombre de la Organización",
   "instance_plural_notification": "notificaciones",
   "instance_plural_org": "Organizaciones",
+  "instance_plural_school": "Escuelas",
   "instance_singular_notification": "notificación",
   "instance_singular_org": "Organización",
+  "instance_singular_school": "Escuela",
   "invited_by": "Invitado por",
   "language": "Idioma",
   "logout": "Cerrar Sesión",
@@ -94,6 +102,9 @@
   "role_owner": "Propietario",
   "search": "Buscar",
   "show_more": "Mostrar más",
+  "slug": "Slug",
+  "slug_helper": "El slug solo puede contener letras, números y guiones.",
+  "submit": "Enviar",
   "ui_error": {
     "email_not_sent": "Se produjo un error al enviar el correo electrónico, inténtalo de nuevo más tarde."
   },
@@ -106,12 +117,5 @@
     "verify_org_email": "Verifica el correo electrónico de tu organización",
     "verify_email_change": "Para actualizar el correo electrónico, por favor, comprueba el correo electrónico actual"
   },
-  "your_name": "Tu Nombre",
-  "common_success": "¡Hecho!",
-  "input_org_name_label": "Nombre de la Organización",
-  "instance_plural_school": "Escuelas",
-  "instance_singular_school": "Escuela",
-  "slug": "Slug",
-  "slug_helper": "El slug solo puede contener letras, números y guiones.",
-  "submit": "Enviar"
+  "your_name": "Tu Nombre"
 }
