@@ -115,7 +115,8 @@
     "check_email": "Por favor, verifique seu e-mail.",
     "email_verification": "Para usar todos os recursos do aplicativo, verifique seu e-mail.",
     "verify_org_email": "Verifique o e-mail da sua organização",
-    "verify_email_change": "Para atualizar o e-mail, verifique o e-mail atual"
+    "verify_email_change": "Para atualizar o e-mail, verifique o e-mail atual",
+    "invalid_image": "A imagem deve ser um arquivo PNG, JPG ou JPEG, com tamanho máximo de 1MB."
   },
   "your_name": "Seu Nome"
 }
