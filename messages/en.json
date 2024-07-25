@@ -1,4 +1,5 @@
 {
+  "about": "About",
   "all_fields_required": "All fields are required.",
   "api_error": {
     "AlreadyExistsError": "This {{field}} is already being used by another {{instance}}.",
@@ -116,7 +117,7 @@
     "email_verification": "To use all the app's features, please verify your email.",
     "verify_org_email": "Verify your organization email",
     "verify_email_change": "To update the email, please, check the current email",
-    "invalid_image": "Image needs to be a png, jpg or jpeg, with a maximum size of 1MB."
+    "invalid_image": "Image needs to be a png, jpg or jpeg, with a maximum size of 1MB"
   },
   "your_name": "Your Name"
 }

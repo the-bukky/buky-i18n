@@ -1,4 +1,5 @@
 {
+  "about": "Sobre",
   "all_fields_required": "Todos los campos son obligatorios.",
   "api_error": {
     "AlreadyExistsError": "Este {{field}} ya está siendo utilizado por otro {{instance}}.",
