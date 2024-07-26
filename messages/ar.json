@@ -1,4 +1,5 @@
 {
+  "about": "عن",
   "all_fields_required": "جميع الحقول مطلوبة.",
   "api_error": {
     "AlreadyExistsError": "هذا {{field}} قيد الاستخدام بالفعل من قبل {{instance}} آخر.",
