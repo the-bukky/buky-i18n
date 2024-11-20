@@ -2,7 +2,6 @@
   "about": "Sobre",
   "all_fields_required": "Todos los campos son obligatorios.",
   "api_error": {
-    "AlreadyExistsError": "Este {{field}} ya está siendo utilizado por otro {{instance}}.",
     "AuthenticationError": "Ocurrió un error de autenticación, intenta iniciar sesión nuevamente.",
     "EmailUnavailableError": "Este correo electrónico ya está en uso.",
     "ValidationError": {

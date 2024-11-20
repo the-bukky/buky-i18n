@@ -2,7 +2,6 @@
   "about": "About",
   "all_fields_required": "All fields are required.",
   "api_error": {
-    "AlreadyExistsError": "This {{field}} is already being used by another {{instance}}.",
     "AuthenticationError": "An authentication error happened, try to login again.",
     "EmailUnavailableError": "This email is already being used.",
     "ValidationError": {

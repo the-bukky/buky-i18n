@@ -2,7 +2,6 @@
   "about": "عن",
   "all_fields_required": "جميع الحقول مطلوبة.",
   "api_error": {
-    "AlreadyExistsError": "هذا {{field}} قيد الاستخدام بالفعل من قبل {{instance}} آخر.",
     "AuthenticationError": "حدث خطأ في المصادقة، حاول تسجيل الدخول مرة أخرى.",
     "EmailUnavailableError": "هذا البريد الإلكتروني مستخدم بالفعل.",
     "ValidationError": {
