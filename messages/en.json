@@ -17,7 +17,7 @@
       "invalid_credentials": "Incorrect email or password."
     },
     "ScalarValidationError": {
-      "non_empty_string": "The field cannot be empty."
+      "non_empty_string": "The field '{{field}}' cannot be empty."
     },
     "OrgAuthorizationError": {
       "can_not_update_role": {
