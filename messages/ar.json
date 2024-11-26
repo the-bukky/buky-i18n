@@ -17,7 +17,7 @@
       "invalid_credentials": "بيانات اعتماد غير صحيحة"
     },
     "ScalarValidationError": {
-      "non_empty_string": "الحقل لا يمكن أن يكون فارغا"
+      "non_empty_string": "الحقل '{{field}}' لا يمكن أن يكون فارغًا."
     },
     "OrgAuthorizationError": {
       "can_not_update_role": {

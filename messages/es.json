@@ -17,7 +17,7 @@
       "invalid_credentials": "Credenciales incorrectas."
     },
     "ScalarValidationError": {
-      "non_empty_string": "El campo no puede estar vacío."
+      "non_empty_string": "El campo '{{field}}' no puede estar vacío."
     },
     "OrgAuthorizationError": {
       "can_not_update_role": {
