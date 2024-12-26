@@ -37,16 +37,16 @@
     "UniqueFieldError": "Este campo {{field}} já está sendo usado por outro(a) {{instance}}."
   },
   "back_to_school": "Voltar para Escola",
-
   "cancel": "Cancelar",
-  "confirm": "Confirmar",
   "clear_all": "Limpar Tudo",
   "common_search_placeholder": "O que você precisa?",
   "common_success": "Feito!",
   "common_view": "Visualizar",
+  "confirm": "Confirmar",
   "confirm_org_deletion": "Tem certeza que deseja apagar a organização?",
   "copied": "Copiado",
   "copy_invite_link": "Copiar link de convite",
+  "create_course": "Criar Curso",
   "create_org": "Criar Organização",
   "delete": "Apagar",
   "delete_account": "Excluir conta",
