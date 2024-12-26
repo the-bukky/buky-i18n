@@ -36,6 +36,10 @@
     },
     "UniqueFieldError": "Este campo {{field}} já está sendo usado por outro(a) {{instance}}."
   },
+  "back_to_school": "Voltar para Escola",
+
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
   "clear_all": "Limpar Tudo",
   "common_search_placeholder": "O que você precisa?",
   "common_success": "Feito!",
@@ -46,7 +50,12 @@
   "create_org": "Criar Organização",
   "delete": "Apagar",
   "delete_account": "Excluir conta",
+  "delete_course": "Excluir Curso",
   "delete_org": "Apagar Organização",
+  "description": "Descrição",
+  "dialog_create_course": {
+    "title": "Criar Curso"
+  },
   "dialog_create_org": {
     "title": "Vamos começar a criar a sua organização.",
     "name_placeholder": "Jane Doe, Inc",
@@ -57,6 +66,9 @@
   },
   "dialog_create_school": {
     "title": "Criar escola"
+  },
+  "dialog_delete_course": {
+    "confirm_course_deletion": "Tem certeza que deseja excluir este curso?"
   },
   "dialog_email_verification": {
     "success_message": "Enviamos um e-mail, por favor, verifique a sua conta.",
@@ -69,13 +81,16 @@
   "general": "Geral",
   "generic_error": "Ops, algo deu errado. Tente novamente mais tarde.",
   "home": "Página Inicial",
+  "input_description_placeholder": "Insira uma descrição",
   "input_email_label": "Endereço de E-mail",
   "input_email_placeholder": "email@email.com",
   "input_name_label": "Seu Nome",
   "input_org_name_label": "Nome da Organização",
+  "instance_plural_course": "Cursos",
   "instance_plural_notification": "notificações",
   "instance_plural_org": "Organizações",
   "instance_plural_school": "Escolas",
+  "instance_singular_course": "Curso",
   "instance_singular_notification": "notificação",
   "instance_singular_org": "Organização",
   "instance_singular_school": "Escola",

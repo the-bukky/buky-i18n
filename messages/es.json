@@ -36,17 +36,25 @@
     },
     "UniqueFieldError": "Este campo {{field}} ya está siendo utilizado por otra {{instance}}."
   },
+  "back_to_school": "Regreso a la Escuela",
   "clear_all": "Limpiar Todo",
   "common_search_placeholder": "¿Qué necesitas?",
   "common_success": "¡Hecho!",
   "common_view": "Ver",
+  "cancel": "Cancelar",
+  "confirm": "Confirmar",
   "confirm_org_deletion": "¿Está seguro de que desea eliminar la organización?",
   "copied": "Copiado",
   "copy_invite_link": "Copiar enlace de invitación",
   "create_org": "Crear Organización",
   "delete": "Eliminar",
   "delete_account": "Eliminar cuenta",
+  "delete_course": "Eliminar Curso",
   "delete_org": "Eliminar Organización",
+  "description": "Descripción",
+  "dialog_create_course": {
+    "title": "Crear Curso"
+  },
   "dialog_create_org": {
     "title": "Comencemos a crear tu organización.",
     "name_placeholder": "Jane Doe, Inc",
@@ -57,6 +65,9 @@
   },
   "dialog_create_school": {
     "title": "Crear escuela"
+  },
+  "dialog_delete_course": {
+    "confirm_course_deletion": "¿Está seguro de que desea eliminar este curso?"
   },
   "dialog_email_verification": {
     "success_message": "Te hemos enviado un correo electrónico, por favor, verifica tu cuenta.",
@@ -69,13 +80,16 @@
   "general": "General",
   "generic_error": "Oops, algo salió mal. Intenta de nuevo más tarde.",
   "home": "Inicio",
+  "input_description_placeholder": "Ingrese una descripción",
   "input_email_label": "Dirección de Correo Electrónico",
   "input_email_placeholder": "correo@electronico.com",
   "input_name_label": "Tu Nombre",
   "input_org_name_label": "Nombre de la Organización",
+  "instance_plural_course": "Cursos",
   "instance_plural_notification": "notificaciones",
   "instance_plural_org": "Organizaciones",
   "instance_plural_school": "Escuelas",
+  "instance_singular_course": "Curso",
   "instance_singular_notification": "notificación",
   "instance_singular_org": "Organización",
   "instance_singular_school": "Escuela",
