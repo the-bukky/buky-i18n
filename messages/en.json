@@ -60,6 +60,9 @@
   "dialog_create_school": {
     "title": "Create school"
   },
+  "dialog_create_course": {
+    "title": "Create course"
+  },
   "dialog_email_verification": {
     "success_message": "We have sent you an email, please verify your account.",
     "fail_message": "An error occurred while sending the verification email, you can try later."
