@@ -37,6 +37,8 @@
     "UniqueFieldError": "This {{field}} is already being used by another {{instance}}."
   },
   "clear_all": "Clear All",
+  "confirm": "Confirm",
+  "cancel": "Cancel",
   "common_search_placeholder": "What do you need?",
   "common_success": "Done!",
   "common_view": "View",
