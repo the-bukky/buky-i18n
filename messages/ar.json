@@ -36,17 +36,26 @@
     },
     "UniqueFieldError": "هذا الحقل {{field}} مستخدم بالفعل بواسطة {{instance}} آخر."
   },
+  "back_to_school": "العودة إلى المدرسة (Al-'awda 'ila al-madrasa)",
+  "cancel": "إلغاء",
   "clear_all": "مسح الكل",
   "common_search_placeholder": "ماذا تحتاج؟",
   "common_success": "تمت!",
   "common_view": "عرض",
+  "confirm": "تأكيد",
   "confirm_org_deletion": "هل أنت متأكد من أنك تريد حذف المنظمة؟",
   "copied": "تم النسخ",
   "copy_invite_link": "نسخ رابط الدعوة",
+  "create_course": "إنشاء دورة (Inshāʾ dawra)",
   "create_org": "إنشاء منظمة",
   "delete": "حذف",
   "delete_account": "حذف الحساب",
+  "delete_course": "حذف دورة (Hadhf dawra)",
   "delete_org": "حذف المنظمة",
+  "description": "وصف (Wasf)",
+  "dialog_create_course": {
+    "title": "إنشاء دورة (ʾInshāʾ dawra)"
+  },
   "dialog_create_org": {
     "title": "لنبدأ في إنشاء منظمتك.",
     "name_placeholder": "جين دو، شركة",
@@ -57,6 +66,9 @@
   },
   "dialog_create_school": {
     "title": "إنشاء مدرسة"
+  },
+  "dialog_delete_course": {
+    "confirm_course_deletion": "هل أنت متأكد أنك تريد حذف هذه الدورة؟ (Hal 'anta muta'akkid 'annak turid hadhf hadhihi al-dawra?) "
   },
   "dialog_email_verification": {
     "success_message": "لقد أرسلنا لك بريدًا إلكترونيًا، يرجى التحقق من حسابك.",
@@ -69,13 +81,16 @@
   "general": "عام",
   "generic_error": "عذرًا، حدث خطأ ما. حاول مرة أخرى في وقت لاحق.",
   "home": "الصفحة الرئيسية",
+  "input_description_placeholder": "أدخل وصفًا (ʾAdkhil wasfā)",
   "input_email_label": "عنوان البريد الإلكتروني",
   "input_email_placeholder": "البريد@الإلكتروني.com",
   "input_name_label": "اسمك",
   "input_org_name_label": "اسم المنظمة",
+  "instance_plural_course": "دورات (Dawrat)",
   "instance_plural_notification": "الإشعارات",
   "instance_plural_org": "المنظمات",
   "instance_plural_school": "مدارس",
+  "instance_singular_course": "دورة (Dawra)",
   "instance_singular_notification": "إشعار",
   "instance_singular_org": "منظمة",
   "instance_singular_school": "مدرسة",
