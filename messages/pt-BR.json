@@ -36,7 +36,6 @@
     },
     "UniqueFieldError": "Este campo {{field}} já está sendo usado por outro(a) {{instance}}."
   },
-  "back_to_school": "Voltar para Escola",
   "cancel": "Cancelar",
   "clear_all": "Limpar Tudo",
   "common_search_placeholder": "O que você precisa?",

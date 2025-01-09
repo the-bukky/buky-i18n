@@ -36,7 +36,6 @@
     },
     "UniqueFieldError": "This {{field}} is already being used by another {{instance}}."
   },
-  "back_to_school": "Back to School",
   "cancel": "Cancel",
   "change_modules_order": "Change modules order",
   "clear_all": "Clear All",
@@ -44,6 +43,7 @@
   "common_success": "Done!",
   "common_view": "View",
   "confirm": "Confirm",
+  "confirm_module_deletion": "Are you sure you want to delete the module?",
   "confirm_org_deletion": "Are you sure you want to delete the organization?",
   "copied": "Copied",
   "copy_invite_link": "Copy invite link",
@@ -53,6 +53,7 @@
   "delete": "Delete",
   "delete_account": "Delete Account",
   "delete_course": "Delete Course",
+  "delete_module": "Delete module",
   "delete_org": "Delete Organization",
   "description": "Description",
   "dialog_create_course": {

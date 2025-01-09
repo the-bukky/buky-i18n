@@ -36,7 +36,6 @@
     },
     "UniqueFieldError": "هذا الحقل {{field}} مستخدم بالفعل بواسطة {{instance}} آخر."
   },
-  "back_to_school": "العودة إلى المدرسة (Al-'awda 'ila al-madrasa)",
   "cancel": "إلغاء",
   "clear_all": "مسح الكل",
   "common_search_placeholder": "ماذا تحتاج؟",
