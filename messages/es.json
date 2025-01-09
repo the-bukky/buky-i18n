@@ -37,7 +37,7 @@
     "UniqueFieldError": "Este campo {{field}} ya está siendo utilizado por otra {{instance}}."
   },
   "cancel": "Cancelar",
-  "cambiar_orden_módulos": "Cambiar orden de módulos",
+  "change_modules_order": "Cambiar orden de módulos",
   "clear_all": "Limpiar Todo",
   "common_search_placeholder": "¿Qué necesitas?",
   "common_success": "¡Hecho!",
