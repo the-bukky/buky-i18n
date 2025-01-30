@@ -84,6 +84,7 @@
   "email_placeholder": "email@email.com",
   "general": "General",
   "generic_error": "Oops, something went wrong. Try again later.",
+  "go_to_editor": "Go to editor",
   "home": "Home",
   "input_change_position_label": "Select the module to which you want to move the current module.",
   "input_description_placeholder": "Enter a description",

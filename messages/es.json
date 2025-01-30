@@ -84,6 +84,7 @@
   "email_placeholder": "correo@electronico.com",
   "general": "General",
   "generic_error": "Oops, algo salió mal. Intenta de nuevo más tarde.",
+  "go_to_editor": "Ir al editor",
   "home": "Inicio",
   "input_change_position_label": "Seleccione el módulo al que desea mover el módulo actual.",
   "input_description_placeholder": "Ingrese una descripción",
