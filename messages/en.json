@@ -78,6 +78,7 @@
     "success_message": "We have sent you an email, please verify your account.",
     "fail_message": "An error occurred while sending the verification email, you can try later."
   },
+  "save": "Save",
   "display_name": "Display name",
   "edit_profile": "Edit Profile",
   "email": "Email",
