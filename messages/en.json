@@ -146,5 +146,7 @@
     "verify_email_change": "To update the email, please, check the current email",
     "invalid_image": "Image needs to be a png, jpg or jpeg, with a maximum size of 1MB"
   },
-  "your_name": "Your Name"
+  "your_name": "Your Name",
+  "drag_video": "Choose or Drag the video file here (mp4)",
+  "drop_video": "Drop the video file here"
 }
