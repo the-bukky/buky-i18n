@@ -79,6 +79,8 @@
     "fail_message": "Ocorreu um erro ao enviar o e-mail de verificação, você pode tentar novamente mais tarde."
   },
   "display_name": "Nome de Exibição",
+  "drag_video": "Escolha ou Arraste o arquivo de vídeo aqui (mp4)",
+  "drop_video": "Solte o arquivo de vídeo aqui",
   "edit_profile": "Editar Perfil",
   "email": "E-mail",
   "email_placeholder": "email@email.com",
