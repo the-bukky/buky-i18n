@@ -115,7 +115,8 @@
   "next": "Próximo",
   "no_notifications": "Sem notificações para ler",
   "notifications": {
-    "new_org_member": "{{memberName}} entrou para {{orgName}}"
+    "new_org_member": "{{memberName}} entrou para {{orgName}}",
+    "video_uploaded": "O vídeo {{videoName}} foi enviado."
   },
   "ok": "Ok",
   "open_settings": "Abrir configurações",
