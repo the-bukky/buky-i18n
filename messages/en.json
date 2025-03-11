@@ -78,8 +78,9 @@
     "success_message": "We have sent you an email, please verify your account.",
     "fail_message": "An error occurred while sending the verification email, you can try later."
   },
-  "save": "Save",
   "display_name": "Display name",
+  "drag_video": "Choose or Drag the video file here (mp4)",
+  "drop_video": "Drop the video file here",
   "edit_profile": "Edit Profile",
   "email": "Email",
   "email_placeholder": "email@email.com",
@@ -114,7 +115,8 @@
   "next": "Next",
   "no_notifications": "No notifications to read",
   "notifications": {
-    "new_org_member": "{{memberName}} joined the {{orgName}}"
+    "new_org_member": "{{memberName}} joined the {{orgName}}",
+    "video_uploaded": "The video {{videoName}} has been uploaded."
   },
   "ok": "Ok",
   "open_settings": "Open settings",
@@ -128,6 +130,7 @@
   "role_admin": "Admin",
   "role_member": "Member",
   "role_owner": "Owner",
+  "save": "Save",
   "search": "Search",
   "show_more": "Show more",
   "slug": "Slug",
@@ -146,7 +149,5 @@
     "verify_email_change": "To update the email, please, check the current email",
     "invalid_image": "Image needs to be a png, jpg or jpeg, with a maximum size of 1MB"
   },
-  "your_name": "Your Name",
-  "drag_video": "Choose or Drag the video file here (mp4)",
-  "drop_video": "Drop the video file here"
+  "your_name": "Your Name"
 }
