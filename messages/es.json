@@ -78,6 +78,9 @@
     "success_message": "Te hemos enviado un correo electrónico, por favor, verifica tu cuenta.",
     "fail_message": "Se produjo un error al enviar el correo electrónico de verificación, puedes intentarlo más tarde."
   },
+  "dialog_select_video": {
+    "title": "Seleccionar un video"
+  },
   "display_name": "Nombre de visualización",
   "drag_video": "Elija o Arrastre el archivo de video aquí (mp4)",
   "drop_video": "Suelte el archivo de video aquí",
@@ -124,6 +127,7 @@
   "org_list_title": "Organizaciones en las que eres {{role}}",
   "password": "Contraseña",
   "people": "Personas",
+  "pick_video_from_school_option": "O elige un video de la escuela",
   "profile": "Perfil",
   "read_notifications": "Leer notificaciones",
   "role": "Rol",

@@ -78,6 +78,9 @@
     "success_message": "Enviamos um e-mail, por favor, verifique a sua conta.",
     "fail_message": "Ocorreu um erro ao enviar o e-mail de verificação, você pode tentar novamente mais tarde."
   },
+  "dialog_select_video": {
+    "title": "Selecione um vídeo"
+  },
   "display_name": "Nome de Exibição",
   "drag_video": "Escolha ou Arraste o arquivo de vídeo aqui (mp4)",
   "drop_video": "Solte o arquivo de vídeo aqui",
@@ -124,6 +127,7 @@
   "org_list_title": "Organizações das quais você é {{role}}",
   "password": "Senha",
   "people": "Pessoas",
+  "pick_video_from_school_option": "Ou escolha um vídeo da escola",
   "profile": "Perfil",
   "read_notifications": "Ler notificações",
   "role": "Função",
