@@ -136,6 +136,7 @@
   "role_owner": "Owner",
   "save": "Save",
   "search": "Search",
+  "search_no_results": "We've traveled the entire universe, but we couldn't find anything. Try again.",
   "show_more": "Show more",
   "slug": "Slug",
   "slug_helper": "Slug can only contain letters, numbers, and dashes.",
