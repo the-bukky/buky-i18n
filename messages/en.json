@@ -93,6 +93,7 @@
   "home": "Home",
   "input_change_position_label": "Select the module to which you want to move the current module.",
   "input_description_placeholder": "Enter a description",
+  "input_keywords_placeholder": "Press Enter/Space to add keywords",
   "input_email_label": "Email Address",
   "input_email_placeholder": "email@email.com",
   "input_name_label": "Your Name",
