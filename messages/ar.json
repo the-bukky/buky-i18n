@@ -95,6 +95,7 @@
   "input_description_placeholder": "أدخل وصفًا (ʾAdkhil wasfā)",
   "input_email_label": "عنوان البريد الإلكتروني",
   "input_email_placeholder": "البريد@الإلكتروني.com",
+  "input_keywords_placeholder": "اضغط Enter/Space لاضافة كلمات مفتاحية",
   "input_name_label": "اسمك",
   "input_org_name_label": "اسم المنظمة",
   "instance_plural_course": "دورات (Dawrat)",
