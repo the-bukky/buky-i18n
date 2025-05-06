@@ -95,6 +95,7 @@
   "input_description_placeholder": "Insira uma descrição",
   "input_email_label": "Endereço de E-mail",
   "input_email_placeholder": "email@email.com",
+  "input_keywords_placeholder": "Pressione Enter/Espaço para adicionar palavras-chave",
   "input_name_label": "Seu Nome",
   "input_org_name_label": "Nome da Organização",
   "instance_plural_course": "Cursos",

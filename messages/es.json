@@ -95,6 +95,7 @@
   "input_description_placeholder": "Ingrese una descripción",
   "input_email_label": "Dirección de Correo Electrónico",
   "input_email_placeholder": "correo@electronico.com",
+  "input_keywords_placeholder": "Presiona Enter/Space para agregar palabras claves",
   "input_name_label": "Tu Nombre",
   "input_org_name_label": "Nombre de la Organización",
   "instance_plural_course": "Cursos",
