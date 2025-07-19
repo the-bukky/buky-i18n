@@ -36,6 +36,7 @@
     },
     "UniqueFieldError": "Este campo {{field}} já está sendo usado por outro(a) {{instance}}."
   },
+  "buy_course": "Comprar Curso",
   "cancel": "Cancelar",
   "change_instance_order": "Alterar ordem dos {{instance_plural}}",
   "clear_all": "Limpar Tudo",
@@ -49,6 +50,8 @@
   "connect_stripe": "Conectar Stripe",
   "copied": "Copiado",
   "copy_invite_link": "Copiar link de convite",
+  "course_fallback_description": "Prepare-se para começar sua jornada de aprendizado com este curso incrível.",
+  "course_welcome": "Você está pronto para começar sua jornada?",
   "create_course": "Criar Curso",
   "create_lesson": "Criar Aula",
   "create_module": "Criar Módulo",

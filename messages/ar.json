@@ -36,6 +36,7 @@
     },
     "UniqueFieldError": "هذا الحقل {{field}} مستخدم بالفعل بواسطة {{instance}} آخر."
   },
+  "buy_course": "شراء الدورة",
   "cancel": "إلغاء",
   "change_instance_order": "تغيير ترتيب {{instance_plural}}",
   "clear_all": "مسح الكل",
@@ -49,6 +50,8 @@
   "connect_stripe": "ربط Stripe",
   "copied": "تم النسخ",
   "copy_invite_link": "نسخ رابط الدعوة",
+  "course_fallback_description": "استعد لبدء رحلة التعلم مع هذه الدورة الرائعة.",
+  "course_welcome": "هل أنت مستعد لبدء رحلتك؟",
   "create_course": "إنشاء دورة (Inshāʾ dawra)",
   "create_lesson": "إنشاء درس",
   "create_module": "إنشاء وحدة",
